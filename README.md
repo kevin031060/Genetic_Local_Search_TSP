@@ -3,4 +3,3 @@ Python implementation of "Genetic local search for multi-objective combinatorial
 
 run the GLS.py 
 
-kind of occupied these days, more instructions will be added further
